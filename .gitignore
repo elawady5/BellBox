@@ -1,3 +1,6 @@
 /.vs
 /BellBox/obj
 /BellBox/bin
+/WindowsBellBox/obj
+/WindowsBellBox/bin
+/WindowsBellBox/WindowsBellBox.csproj.user

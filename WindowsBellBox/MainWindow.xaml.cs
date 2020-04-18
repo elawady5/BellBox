@@ -24,5 +24,21 @@ namespace WindowsBellBox
         {
             InitializeComponent();
         }
+
+        private void BtnClose_OnClick(object sender, RoutedEventArgs e)
+        {
+           Close();
+        }
+
+
+        private void BtnMaximize_OnClick(object sender, RoutedEventArgs e)
+        {
+            WindowState = WindowState == WindowState.Normal? WindowState.Maximized : WindowState.Normal;
+        }
+
+        private void BtnMinimize_OnClick(object sender, RoutedEventArgs e)
+        {
+            WindowState = WindowState.Minimized;
+        }
     }
 }

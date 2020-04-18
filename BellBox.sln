@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellBox", "BellBox\BellBox.csproj", "{7EF7492F-A0CD-461D-94F0-D18349930F66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellBox", "BellBox\BellBox.csproj", "{6AE94EC8-B4A2-4565-8440-9B147BB41DB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EF7492F-A0CD-461D-94F0-D18349930F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EF7492F-A0CD-461D-94F0-D18349930F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EF7492F-A0CD-461D-94F0-D18349930F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EF7492F-A0CD-461D-94F0-D18349930F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE94EC8-B4A2-4565-8440-9B147BB41DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE94EC8-B4A2-4565-8440-9B147BB41DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE94EC8-B4A2-4565-8440-9B147BB41DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE94EC8-B4A2-4565-8440-9B147BB41DB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B82A3893-8F83-413C-84A7-A6DBAF931AA2}
+		SolutionGuid = {4D6963D6-CB1C-444A-AEB5-CBCF99922E35}
 	EndGlobalSection
 EndGlobal
